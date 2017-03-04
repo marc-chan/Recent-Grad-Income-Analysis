@@ -1,8 +1,2 @@
-Analysis of recent grad income data
-
-### Testing Header
-
-```
-if (x>5):
-  print("hello")
-```
+##Analysis of recent grad income data
+#Data from [fivethirtyeight]("https://github.com/fivethirtyeight/data/tree/master/college-majors")
